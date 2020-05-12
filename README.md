@@ -38,6 +38,10 @@ Simply run all the cell in each file to get the results (`Cell --> Run All`). Co
 
 The final `json` file will contain cleaned data with extracte features ready for classification.
 
+## Project report
+The following link contains the final report for the project
+https://docs.google.com/document/d/1LmIuy9tu1nXb0zlv1nn4fZHxsllORyHPX4FympsD434/edit?usp=sharing
+
 ## Contributors
 
 This repo is part of CMPT 459 (Data Mining) project and is contributed by students:
