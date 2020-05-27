@@ -15,9 +15,6 @@ Some parts of our code require NTLK and TextBlob package in Python to run, this 
 - `conda install -c anaconda nltk`
 - `conda install -c conda-forge textblob`
 
-
-For marking purposes, you can download project folder in a `zip` file here: [https://csil-git1.cs.surrey.sfu.ca/pdnguyen/cmpt459project/tree/master](url)
-
 ## Code Execution
 
 Open notebook by navigating to project folder (extracted) then run `jupyter notebook` in the command line. The folder should consists of the following files:
